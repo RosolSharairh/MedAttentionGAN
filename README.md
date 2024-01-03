@@ -1,5 +1,7 @@
 # MedAttentionGAN: 
-## Abstarct 
+## Summary
+
+This code is part of the Deep Learning Course instructed by Dr. Tamam Alsarhan at the University of Jordan.
 
 
 ## Setup
