@@ -13,7 +13,7 @@ To run the [`code.ipynb`](code.ipynb) file with no problems, make sure that your
 
 
 ## Models
-
+[This is a Jupyter notebook that contains the models.](link.ipynb)
 ## Datasets & Preprocessing
 Datasets are found in this [`Google Drive link`](link).
 
