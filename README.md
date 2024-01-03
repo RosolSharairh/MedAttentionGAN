@@ -15,7 +15,14 @@ To run the [`code.ipynb`](code.ipynb) file with no problems, make sure that your
 ## Models
 [This is a Jupyter notebook that contains the models.](link.ipynb)
 ## Datasets & Preprocessing
-Datasets are found in this [`Google Drive link`](link).
+1.Paired CT/MR Datasets
+1.1 The Magnetic Resonance - Computed Tomogra-
+phy (MR-CT) Jordan University Hospital (JUH)
+1.2 Brain CT Images with Intracranial Hemorrhage
+Masks
+1.3 Computed Tomography (CT) of the Brain
+2. Unpaired-datasets
+2.1 [CT and MRI brain scans](https://drive.google.com/drive/folders/1yfl0WDiADd8xe0a_61F7muhDLQf4BI5Y?usp=drive_link)
 
 ## Pretrained Weights
 Pretrained Weights could be found in this [`Google Drive link`](link).
