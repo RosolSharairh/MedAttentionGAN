@@ -16,15 +16,16 @@ To run the [`code.ipynb`](code.ipynb) file with no problems, make sure that your
 [This is a Jupyter notebook that contains the models.](link.ipynb)
 ## Datasets & Preprocessing
 We used paired and unpaired MR/CT images from different sources. For the preprocessing we resized all images to be (256,256) and unified the format to png.
-1. Paired CT/MR Datasets:
+1. Paired CT/MR Dataset:
 - [The Magnetic Resonance - Computed Tomogra-
 phy (MR-CT) Jordan University Hospital (JUH)]
-- [Brain CT Images with Intracranial Hemorrhage
-Masks]
-- [Computed Tomography (CT) of the Brain]
  2. Unpaired-datasets:
- - [CT and MRI brain scans](https://drive.google.com/drive/folders/1yfl0WDiADd8xe0a_61F7muhDLQf4BI5Y?usp=drive_link)
-
+ - [Brain CT images with intracranial hemorrhage masks](https://www.kaggle.com/datasets/vbookshelf/computed-tomography-ct-images/data)
+ - [CT of the brain](https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain)
+ - [Brain tumor MRI dataset] (https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data)
+ - [Radiological Society of North America (RSNA) for Intracranial Hemorrhage Detection](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/overview)
+ - [Brain tumor MRI dataset]({https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
+ 
 ## Pretrained Weights
 Pretrained Weights could be found in this [`Google Drive link`](link).
 
