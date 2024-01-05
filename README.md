@@ -6,7 +6,7 @@ Using a two-phase approach, we leverage
 both the paired and the unpaired data using CLIP in the first phase and AttentionGAN-V1 in the second phase, respectively. While the overall results were unsatisfactory, the model exhibited the highest visual information fidelity suggesting that the generated images have retained a significant amount of detail and clarity. 
 
 ## Setup
-To run the [`code.ipynb`](code.ipynb) file with no problems, make sure that your configuration is as follows:
+To run the [`code.ipynb`](https://drive.google.com/file/d/1mZFIxtMzzVHh0Mu0-v0Og0U0fcAHcs_h/view?usp=sharing) file with no problems, make sure that your configuration is as follows:
 * Python version: `3.8.17`.
 * CUDA version: `11.7`.
 * GPU: NVIDIA V100.
