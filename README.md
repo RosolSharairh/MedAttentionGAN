@@ -24,7 +24,7 @@ phy (MR-CT) Jordan University Hospital (JUH)]
  - [CT of the brain](https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain)
  - [Brain tumor MRI dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data)
  - [Radiological Society of North America (RSNA) for Intracranial Hemorrhage Detection](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/overview)
- - [Brain tumor MRI dataset](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
+ - [Brain Tumor Detection](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
  
 ## Pretrained Weights
 Pretrained Weights could be found in this [`Google Drive link`](link).
