@@ -12,8 +12,9 @@ To run the [`code.ipynb`](code.ipynb) file with no problems, make sure that your
 * Dependencies are available in [`requirements.txt`](requirements.txt), run `pip install -r requirements.txt`.
 
 
-## Models
-[This is a Jupyter notebook that contains the models.](link.ipynb)
+## Models and Pretrained Weights
+This is a file that contains Jupyter Notebook for the models and pretrained weights.[Link](https://drive.google.com/file/d/1mZFIxtMzzVHh0Mu0-v0Og0U0fcAHcs_h/view?usp=sharing)
+
 ## Datasets & Preprocessing
 We used paired and unpaired MR/CT images from different sources. For the preprocessing we resized all images to be (256,256) and unified the format to png.
 1. Paired CT/MR Dataset:
@@ -26,8 +27,5 @@ phy (MR-CT) Jordan University Hospital (JUH)]
  - [Radiological Society of North America (RSNA) for Intracranial Hemorrhage Detection](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/overview)
  - [Brain Tumor Detection](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
  
-## Pretrained Weights
-Pretrained Weights could be found in this [`Google Drive link`](link).
-
 ## Contact Us
-If you encounter any issues and need assistance, please sumbit an issue on this GitHub repository, or contact us via [abdelrahman.sabbagh@kaust.edu.sa](mailto:abdelrahman.sabbagh@kaust.edu.sa). Thank you for your interest in reproducing the results!
+If you encounter any issues and need assistance, please sumbit an issue on this GitHub repository, or contact us via [abd0200811@ju.edu.jo](mailto:abd0200811@ju.edu.jo), [bsr0189040@ju.edu.jo](mailto:bsr0189040@ju.edu.jo), [mas0205277@ju.edu.jo](mailto:mas0205277@ju.edu.jo), [rsl0203085@ju.edu.jo](mailto:rsl0203085@ju.edu.jo), [tar0205865@ju.edu.jo](mailto:tar0205865@ju.edu.jo), [t_alsarhan@ju.edu.jo](mailto:t_alsarhan@ju.edu.jo). Thank you for your interest in reproducing the results!
