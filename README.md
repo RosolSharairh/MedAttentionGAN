@@ -2,7 +2,8 @@
 ## Summary
 
 This code is part of the Deep Learning Course instructed by Dr. Tamam Alsarhan at the University of Jordan.
-
+Using a two-phase approach, we leverage
+both the paired and the unpaired data using CLIP in the first phase and AttentionGAN-V1 in the second phase, respectively. While the overall results were unsatisfactory, the model exhibited the highest visual information fidelity suggesting that the generated images have retained a significant amount of detail and clarity. 
 
 ## Setup
 To run the [`code.ipynb`](code.ipynb) file with no problems, make sure that your configuration is as follows:
