@@ -19,12 +19,12 @@ We used paired and unpaired MR/CT images from different sources. For the preproc
 1. Paired CT/MR Dataset:
 - [The Magnetic Resonance - Computed Tomogra-
 phy (MR-CT) Jordan University Hospital (JUH)]
- 2. Unpaired-datasets:
+ 2. Unpaired datasets:
  - [Brain CT images with intracranial hemorrhage masks](https://www.kaggle.com/datasets/vbookshelf/computed-tomography-ct-images/data)
  - [CT of the brain](https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain)
- - [Brain tumor MRI dataset] (https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data)
+ - [Brain tumor MRI dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data)
  - [Radiological Society of North America (RSNA) for Intracranial Hemorrhage Detection](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/overview)
- - [Brain tumor MRI dataset]({https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
+ - [Brain tumor MRI dataset](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
  
 ## Pretrained Weights
 Pretrained Weights could be found in this [`Google Drive link`](link).
